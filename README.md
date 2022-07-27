@@ -5,7 +5,7 @@
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdarozkan41&show_icons=true&locale=en&layout=compact" alt="serdarozkan41" /></p>
-
+<br>
 - 🔭 I’m currently working on [d7ksuper](https://d7ksuper.com/)
 
 - 👯 I’m looking to collaborate on [maui](https://github.com/dotnet/maui)
