@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
+
 <br>
+
 - 🔭 I’m currently working on [dksuper](https://d7ksuper.com/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/serdarozkan41/](https://www.linkedin.com/in/serdarozkan41/)
